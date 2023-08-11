@@ -9,7 +9,7 @@
 
 🌱 My curiosity knows no bounds – I'm currently immersing myself in the realms of JavaScript (especially TypeScript) and Rust, in particular the [Vue](https://vuejs.org/) and [Substrate](https://substrate.io/) libraries.
 
-🔭 I'm currently working on an [AI for ancient languages](https://github.com/Convolutio/IA_languesAnciennes) in collaboration with [@Convolutio](https://github.com/Convolutio/).
+🔭 I'm working on an [AI for ancient languages](https://github.com/Convolutio/IA_languesAnciennes) in collaboration with [@Convolutio](https://github.com/Convolutio/).
 
 <h3 align=center> Technologies </h3>
 
