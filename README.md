@@ -5,9 +5,9 @@
 <p align=center>🌐 Web3 Enthusiast | Open Source Fan | Lifelong Learner 🚀</p>
 <br/>
 
-🐍 I'm a Python developer who's always diving into the latest trends and developments that redefine how we interact with the digital realm.
+🐍 I'm a Python developer who's always diving into the latest trends and developments that redefine how we interact with the digital world.
 
-🌱 My curiosity knows no bounds – I'm currently immersing myself in the realms of JavaScript (especially TypeScript) and Rust, in particular the [Vue](https://vuejs.org/) and [Substrate](https://substrate.io/) libraries.
+🌱 My curiosity knows no bounds – I'm currently immersing myself in the fields of JavaScript (especially TypeScript) and Rust, in particular the [Vue](https://vuejs.org/) and [Substrate](https://substrate.io/) libraries.
 
 🔭 I'm working on an [AI for ancient languages](https://github.com/Convolutio/IA_languesAnciennes) in collaboration with [@Convolutio](https://github.com/Convolutio/).
 
