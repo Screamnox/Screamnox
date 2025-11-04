@@ -2,26 +2,25 @@
 
 <h3 align=center> About me </h3>
 
-<p align=center>🌐 Web3 Enthusiast | Open Source Fan | Lifelong Learner 🚀</p>
+<p align=center>🔐 Security & AI | Open Source Fan | Lifelong Learner 🚀</p>
 <br/>
 
-🐍 I'm a Python developer who's always diving into the latest trends and developments that redefine how we interact with the digital world.
+💭 I’m fascinated by how **trustable systems can be built** — and how **AI** enhances them.<br/>
+🌱 I like exploring how things work at a low level and finding ways to make them more secure and reliable.<br/>
+🔭 I'm working on an implementation of [PeerReview in Rust](https://github.com/Screamnox/peerreview-rust).
 
-🌱 My curiosity knows no bounds – I'm currently immersing myself in the fields of JavaScript (especially TypeScript) and Rust, in particular the [Vue](https://vuejs.org/) and [Substrate](https://substrate.io/) libraries.
+---
 
-🔭 I'm working on an [AI for ancient languages](https://github.com/Convolutio/IA_languesAnciennes) in collaboration with [@Convolutio](https://github.com/Convolutio/).
+<h3 align="center">Technologies</h3>
 
-<h3 align=center> Technologies </h3>
-
-<p align=center>
-  <a href="https://python.org"><img alt="Python" height="32" width="32" src="https://www.svgrepo.com/show/452091/python.svg" /></a>
-  <a href="https://pytorch.org/"><img alt="PyTorch" height="32" width="32" src="https://www.svgrepo.com/show/354240/pytorch.svg" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img alt="HTML" height="32" width="32" src="https://www.svgrepo.com/show/452228/html-5.svg" /></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img alt="CSS" height="32" width="32" src="https://www.svgrepo.com/show/452185/css-3.svg" /></a>
+<p align="center">
+  <a href="https://golang.org"><img alt="Go" height="32" width="32" src="https://www.svgrepo.com/show/452214/go.svg"/></a>
+  <a href="https://www.rust-lang.org/"><img alt="Rust" height="32" width="32" src="https://www.svgrepo.com/show/374056/rust.svg"/></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" height="32" width="32" src="https://www.svgrepo.com/show/374146/typescript-official.svg"/></a>
+  <a href="https://www.kernel.org/"><img alt="Linux" height="32" width="32" src="https://www.svgrepo.com/show/448236/linux.svg"/></a>
+  <a href="https://www.docker.com/"><img alt="Docker" height="32" width="32" src="https://www.svgrepo.com/show/448221/docker.svg"/></a>
 </p>
-<p align=center>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" height="32" width="32" src="https://www.svgrepo.com/show/374171/vscode.svg" /></a>
-  <a href="https://ubuntu.com/"><img alt="Ubuntu" height="32" width="32" src="https://www.svgrepo.com/show/452122/ubuntu.svg" /></a>
-  <a href="https://www.npmjs.com/"><img alt="npm" height="32" width="32" src="https://www.svgrepo.com/show/452077/npm.svg" /></a>
-  <a href="https://insomnia.rest/"><img alt="Insomnia" height="32" width="32" src="https://www.svgrepo.com/show/353904/insomnia.svg" /></a>
-</p>
+
+---
+
+<p align="center">💬 Always open to discuss research, open source, or just ideas that make technology more trustworthy.</p>
